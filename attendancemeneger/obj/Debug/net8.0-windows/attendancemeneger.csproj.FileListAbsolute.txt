@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.AssemblyInfo.cs
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\bin\Debug\net8.0-windows\attendancemeneger.exe
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\bin\Debug\net8.0-windows\attendancemeneger.deps.json
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\bin\Debug\net8.0-windows\attendancemeneger.runtimeconfig.json
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\bin\Debug\net8.0-windows\attendancemeneger.dll
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\bin\Debug\net8.0-windows\attendancemeneger.pdb
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.dll
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\refint\attendancemeneger.dll
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.pdb
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\attendancemeneger.genruntimeconfig.cache
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\ref\attendancemeneger.dll
+C:\Users\HP\source\repos\attendancemeneger\attendancemeneger\obj\Debug\net8.0-windows\AttendanceManagerApp.Form1.resources

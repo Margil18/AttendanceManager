@@ -1,0 +1,63 @@
+{
+  "Students": [
+    {
+      "FirstName": "margil",
+      "LastName": "Patel ",
+      "FullName": "margil Patel "
+    },
+    {
+      "FirstName": "Yash ",
+      "LastName": "Joshi ",
+      "FullName": "Yash  Joshi "
+    }
+  ],
+  "Subjects": [
+    {
+      "Name": "Java "
+    },
+    {
+      "Name": ".net"
+    },
+    {
+      "Name": "android"
+    }
+  ],
+  "Attendance": [
+    {
+      "StudentName": "margil Patel ",
+      "SubjectName": ".net",
+      "Date": "2025-08-30T00:00:00+05:30",
+      "Present": true
+    },
+    {
+      "StudentName": "margil Patel ",
+      "SubjectName": "android",
+      "Date": "2025-08-30T00:00:00+05:30",
+      "Present": true
+    },
+    {
+      "StudentName": "margil Patel ",
+      "SubjectName": "Java ",
+      "Date": "2025-08-30T00:00:00+05:30",
+      "Present": true
+    },
+    {
+      "StudentName": "margil Patel ",
+      "SubjectName": "Java ",
+      "Date": "2025-08-31T00:00:00",
+      "Present": true
+    },
+    {
+      "StudentName": "Yash  Joshi ",
+      "SubjectName": "Java ",
+      "Date": "2025-08-30T00:00:00+05:30",
+      "Present": true
+    },
+    {
+      "StudentName": "Yash  Joshi ",
+      "SubjectName": "android",
+      "Date": "2025-08-30T00:00:00+05:30",
+      "Present": true
+    }
+  ]
+}
